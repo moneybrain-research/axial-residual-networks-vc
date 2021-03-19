@@ -1,10 +1,10 @@
-I"4@<h1 id="abstract">Abstract</h1>
+I"!@<h1 id="abstract">Abstract</h1>
 
 <p>We propose a novel architecture and improved training objectives for non-parallel voice conversion. Our proposed CycleGAN-based model performs a shape-preserving transformation directly on a high frequency-resolution magnitude spectrogram, converting its style (i.e. speaker identity) while preserving the speech content. Throughout the entire conversion process, the model does not resort to compressed intermediate representations of any sort (e.g. mel spectrogram, low resolution spectrogram, decomposed network feature). We propose an efficient axial residual block architecture to support this expensive procedure and various modifications to the CycleGAN losses to stabilize the training process. We demonstrate via experiments that our proposed model outperforms Scyclone and shows a comparable or better performance to that of CycleGAN-VC2 even without employing a neural vocoder.</p>
 
 <h1 id="audio-samples">Audio Samples</h1>
 
-<p><strong>Note</strong>: For experimental details please refer to the <a href="https://arxiv.org/abs/2102.08075"><strong>[paper]</strong></a>.</p>
+<p><strong>Note</strong>: For experimental details please refer to the <a href="https://arxiv.org/abs/2102.08075">paper</a>.</p>
 
 <h2 id="vctk-dataset-english">VCTK dataset (English)</h2>
 
