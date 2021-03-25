@@ -46,10 +46,12 @@ They are provided as references. Note that we did not use these data during trai
 # Citation 
 
 ```plain
-@article{you2021a,
-  author = {Jaeseong You, Gyuhyeon Nam, Dalhyun Kim, Gyeongsu Chae},
-  title = {Axial Residual Networks for CycleGAN-based Voice Conversion},
-  journal = {arXiv preprint arXiv:2102.08075},
-  year = {2021}
+@misc{you2021axial,
+      title={Axial Residual Networks for CycleGAN-based Voice Conversion},
+      author={Jaeseong You and Gyuhyeon Nam and Dalhyun Kim and Gyeongsu Chae},
+      year={2021},
+      eprint={2102.08075},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS}
 }
 ```
