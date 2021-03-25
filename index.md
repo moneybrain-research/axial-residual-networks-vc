@@ -9,7 +9,7 @@ We propose a novel architecture and improved training objectives for non-paralle
 
 # Audio Samples 
 
-**Note**: For experimental details, please refer to the [paper](https://arxiv.org/abs/2102.08075).
+**Note**: Please refer to the [paper](https://arxiv.org/abs/2102.08075) for experimental details. 
 
 
 
